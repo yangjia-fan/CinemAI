@@ -1,4 +1,4 @@
-_genre.generator.ipynb_ contains code for a supervised learning NLP model that uses Python’s _pandas_, _nltk_, _sk-learn_ and various libraries to perform ML tasks on film dialogues (open the file via JupyterNotebook)
+****_genre.generator.ipynb_**** contains code for a supervised learning NLP model that uses Python’s _pandas_, _nltk_, _sk-learn_ and various libraries to perform ML tasks on film dialogues (open the file via JupyterNotebook)
 
 Methods used to facilitate the machine learning procedures include tokenization, dimensionality reduction, TFIDF, cross-validation, grid search, and decision tree classifiers
 
