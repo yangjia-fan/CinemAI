@@ -10,4 +10,4 @@ The data is modeled on 100,000 lines of film dialogues with associated genres fr
 
 **_Load_OptimalModel.ipynb_** branches from the main _genre.generator.ipynb_ code. It deserializes the optimal model by reading _CinemAiModel.joblib_ to predict user inputs. The environment must be set with the same libraries and custom functions to ensure its environment mirrors the training environment _CinemAiModel.joblib_  was serialized on
 
-You can view an interactive demo to see the code in action on higgingface! - https://huggingface.co/spaces/yangjia-fan/CinemAi
+You can view an interactive demo to see the code in action on higgingface! - https://huggingface.co/spaces/yangjia-fan/CinemAI
